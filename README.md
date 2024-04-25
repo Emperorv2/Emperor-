@@ -14,7 +14,8 @@
   
 <h1 align="center">Emperor-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓</h1>
 
-![20240201_185316] (https://t.me/afk_chillzone)
+![20240201_185316] (https://t.me/afk_chillzone) 
+respect owner- t.me/@lostt_devil [ the Emperor 🔥]
 
 <p align="center">
 <a href="https://github.com/Team-Japanese/Japanese-X-Userbot/stargazers"> </a>
