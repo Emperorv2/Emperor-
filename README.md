@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=ωσяℓ∂+ℓαяgεsт+αη∂+ғαsтεsт+υsεявσт;ηεvεя+εxιsтε∂+ιη+тнιs+ωσяℓ∂.;+𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞+𝐗++𝐔𝐬𝐞𝐫𝐛𝐨𝐭+❤️✨+%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=ωσяℓ∂+ℓαяgεsт+αη∂+ғαsтεsт+υsεявσт;ηεvεя+εxιsтε∂+ιη+тнιs+ωσяℓ∂.;+#𝐄𝐦𝐩𝐞𝐫𝐨𝐫▬ι═══════ +𝐗+𝐔𝐬𝐞𝐫𝐛𝐨𝐭+❤️✨+%E2%9D%A4%EF%B8%8F">
   
 
 
@@ -54,13 +54,13 @@
 4. 𝑭𝒊𝒍𝒍 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔:
   
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Team-Japanese/Japanese-X-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Team-Japanese/Emperor-X-Userbot"> </a></p>
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑹𝒂𝒊𝒍𝒘𝒂𝒚
 
 
 <p align="center">
-    <a href="https://railway.app/new/template?template=https://github.com/Team-Japanese/Japanese-X-Userbot-Deploy"> <img src="https://railway.app/button.svg"/></a>
+    <a href="https://railway.app/new/template?template=https://github.com/Team-Japanese/emperor-X-Userbot-Deploy"> <img src="https://railway.app/button.svg"/></a>
 
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝒐𝒏 𝑶𝒌𝒕𝒆𝒕𝒐
