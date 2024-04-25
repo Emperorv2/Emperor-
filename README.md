@@ -14,7 +14,7 @@
   
 <h1 align="center">Emperor-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓</h1>
 
-![20240201_185316](https://github.com/Japanese-Userbots/Japanese-X-Userbot/assets/156512147/0782c397-c94b-4676-8cf1-89d26257b41a)
+![20240201_185316] (https://t.me/afk_chillzone)
 
 <p align="center">
 <a href="https://github.com/Team-Japanese/Japanese-X-Userbot/stargazers"> </a>
