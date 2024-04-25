@@ -1,6 +1,6 @@
 <p align="center">
     <b> ᴠɪsɪᴛᴏʀs </b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Japanese-X-Userbot/count.svg" />
+ -->    <img align="middle" 
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓</h1>
+<h1 align="center">Emperor-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓</h1>
 
 ![20240201_185316](https://github.com/Japanese-Userbots/Japanese-X-Userbot/assets/156512147/0782c397-c94b-4676-8cf1-89d26257b41a)
 
